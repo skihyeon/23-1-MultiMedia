@@ -19,7 +19,6 @@ with wavr as source:
 	audio = r.record(source)
 	print(r.recognize_google(audio))
 
-
 stream.stop_stream()
 stream.close()
 
