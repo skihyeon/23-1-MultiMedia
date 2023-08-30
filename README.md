@@ -17,7 +17,7 @@
     - [`12week/`](./.\12week)
         - [`hough.py`](./.\12week\hough.py)
     - [`2week/`](./.\2week)
-        - [`ex1_Audiolevel meter.py`](./.\2week\ex1_Audiolevel meter.py)
+        - [`ex1_Audiolevel meter.py`](./.\2week\ex1_Audiolevelmeter.py)
         - [`ex2_Audiorecording.py`](./.\2week\ex2_Audiorecording.py)
         - [`ex3_Audioplayer.py`](./.\2week\ex3_Audioplayer.py)
     - [`3week/`](./.\3week)
