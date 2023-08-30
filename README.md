@@ -1,4 +1,4 @@
-# 23-1-MultiMedia
+# 23-1-MultiMediaProgramming
 
 ## Directory Structure
 - [`./`](./.):
